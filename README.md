@@ -1,13 +1,13 @@
 # macos-terminal
 
-This repository contains script for automatic terminal configuration in macOS system. But, if you want take it manually, you should go to the [Manual Mode](#manual-mode) section. I like to customize the terminal the way it suits me, and if there is an opportunity to improve it even more, I will take advantage of it.
+This repository contains script for automatic terminal configuration in macOS system. But, if you want take it manually, you should go to the [Manual Mode](#manual-installation) section. I like to customize the terminal the way it suits me, and if there is an opportunity to improve it even more, I will take advantage of it.
 
 ![](data/images/terminal.png)
 
 ## Table of Contents
 - [Tools](#tools)
 - [Usage](#usage)
-- [Manual Mode](#manual-mode)
+- [Manual Installation](#manual-installation)
 
 ## Tools
 
@@ -31,7 +31,7 @@ chmod +x terminal_setup.sh
 ./terminal_setup.sh
 ```
 
-## Manual Mode
+## Manual Installation
 
 Install homebrew:
 
