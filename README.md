@@ -15,7 +15,7 @@ This repository contains script for automatic terminal configuration in macOS sy
 
 [oh-my-zsh](https://ohmyz.sh) – framework for managing zsh configuration
 
-[starship](https://www.zsh.org) – customizable prompt for any shell
+[starship](https://starship.rs) – customizable prompt for any shell
 
 [exa](https://the.exa.website) – replacement for `ls`
 
