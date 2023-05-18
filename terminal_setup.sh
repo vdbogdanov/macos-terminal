@@ -1,6 +1,9 @@
 #!/bin/bash
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew tap homebrew/cask-fonts
+brew install --cask font-hack-nerd-font
 brew install starship exa bat
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

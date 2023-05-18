@@ -39,6 +39,13 @@ Install homebrew:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Install font:
+
+```bash
+brew tap homebrew/cask-fonts
+brew install --cask font-hack-nerd-font
+```
+
 Install utilities:
 
 ```bash
