@@ -1,6 +1,6 @@
 # macos-terminal
 
-This repository contains scripts for automatic terminal configuration in unix-like systems. I like to customize the terminal the way it suits me, and if there is an opportunity to improve it even more, I will take advantage of it.
+This repository contains script for automatic terminal configuration in macOS system. But, if you want take it manually, you should go to the [Manual Mode](#manual-mode) section. I like to customize the terminal the way it suits me, and if there is an opportunity to improve it even more, I will take advantage of it.
 
 ![](data/images/terminal.png)
 
